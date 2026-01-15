@@ -1,5 +1,5 @@
 discord.py-self
-discord-ext-voice-recv
+discord.py==1.7.3ㅤ
 motor
 pystyle
 protobuf==4.23.4
