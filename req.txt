@@ -1,0 +1,14 @@
+discord.py-self
+discord-ext-voice-recv
+motor
+pystyle
+protobuf==4.23.4
+requestcord==1.0.1
+tls_client
+pillow
+curl_cffi
+aiohttp
+websocket-client
+httpx
+requests
+pymongo
