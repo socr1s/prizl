@@ -1,0 +1,46 @@
+{
+  "token": "MTEzNDE3ODE4MTI1MTg3NDkwNw.GuPwq1.6bvrMFc113SePOPflFVAZIxBoI2f12ZBJcpQdE",
+  "antok": ".",
+  "krambitbot": ".",
+  "floodbot": ".",
+  "appbot": {
+    "appid": "1452891065756422309",
+    "floodfield": "krambit > you",
+    "floodmark": "krambit > everyone",
+    "mainicon": "https://i.pinimg.com/originals/d9/3c/00/d93c00dc92a0e5fd0b064b596dc2f27a.gif",
+    "floodicon": "https://cdn.discordapp.com/attachments/1393823502234292306/1397106114927267943/zCbKHMGY.gif"
+  },
+  "antigc": {
+    "enabled": true,
+    "webhook": "",
+    "gcmsg": "u cant trap krambit aka ur god son",
+    "whitelist": [
+      
+    ]
+  },
+  "dmsniper": {
+    "enabled": true,
+    "webhook": "",
+    "whitelist": [
+      
+    ]
+  },
+  "nuke": {
+    "ban_reason": "Fucked by krambit",
+    "webhook_av": "",
+    "webhook_name": "krambit > you",
+    "protected_ids": [
+      
+      
+      
+    ],
+    "channel_names": [
+      "beamed by krambit",
+      "krambit was here"
+    ],
+    "messages": [
+      "@everyone KRAMBIT > YOU",
+      "@everyone krambit beamed this"
+    ]
+  }
+}
