@@ -1,5 +1,4 @@
 discord.py-self
-
 motor
 pystyle
 protobuf==4.23.4
